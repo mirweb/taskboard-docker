@@ -1,0 +1,3 @@
+[submodule "TaskBoard"]
+	path = TaskBoard
+	url = git@github.com:kiswa/TaskBoard.git

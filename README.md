@@ -3,10 +3,10 @@ taskboard-docker
 
 Docker Image to run [Taskboard](http://taskboard.matthewross.me/), a php kanban board.
 
-Build and Run
+Run
 -------------
 ```
-docker build -t mirweb/taskboard .
+docker pull mirweb/taskboard
 docker run -d -p 80:80 mirweb/taskboard
 ```
 
